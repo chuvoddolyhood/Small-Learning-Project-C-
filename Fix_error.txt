@@ -1,0 +1,10 @@
+Sua loi Error: Cannot access file bin/Debug/… because it is being used by another process
+
+if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"
+
+How to open prebuild events tab:
+https://www.c-sharpcorner.com/UploadFile/939b56/build-events-in-visual-studio/#:~:text=Let%27s%20have%20a%20look%20at,the%20following%20dialog%20will%20open.
+
+How to fix an error
+https://stackoverflow.com/questions/11646047/error-cannot-access-file-bin-debug-because-it-is-being-used-by-another-proc

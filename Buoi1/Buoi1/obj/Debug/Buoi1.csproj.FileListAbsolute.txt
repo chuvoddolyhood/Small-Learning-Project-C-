@@ -1,0 +1,7 @@
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\bin\Debug\Buoi1.exe.config
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\bin\Debug\Buoi1.exe
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\bin\Debug\Buoi1.pdb
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\obj\Debug\Buoi1.csprojAssemblyReference.cache
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\obj\Debug\Buoi1.exe
+F:\Programming\.Net_Csharp\ThucHanh\Buoi1\Buoi1\obj\Debug\Buoi1.pdb
