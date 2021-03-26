@@ -1,0 +1,10 @@
+F:\Bai3\Bai3\bin\Debug\Bai3.exe.config
+F:\Bai3\Bai3\bin\Debug\Bai3.exe
+F:\Bai3\Bai3\bin\Debug\Bai3.pdb
+F:\Bai3\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache
+F:\Bai3\Bai3\obj\Debug\Bai3.flightReservation.resources
+F:\Bai3\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+F:\Bai3\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+F:\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+F:\Bai3\Bai3\obj\Debug\Bai3.exe
+F:\Bai3\Bai3\obj\Debug\Bai3.pdb
