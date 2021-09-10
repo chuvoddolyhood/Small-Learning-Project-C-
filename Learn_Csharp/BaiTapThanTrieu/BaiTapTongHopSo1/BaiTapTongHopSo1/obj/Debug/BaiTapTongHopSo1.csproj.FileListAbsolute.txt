@@ -1,0 +1,7 @@
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\bin\Debug\BaiTapTongHopSo1.exe.config
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\bin\Debug\BaiTapTongHopSo1.exe
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\bin\Debug\BaiTapTongHopSo1.pdb
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\obj\Debug\BaiTapTongHopSo1.csprojAssemblyReference.cache
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\obj\Debug\BaiTapTongHopSo1.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\obj\Debug\BaiTapTongHopSo1.exe
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapTongHopSo1\BaiTapTongHopSo1\obj\Debug\BaiTapTongHopSo1.pdb

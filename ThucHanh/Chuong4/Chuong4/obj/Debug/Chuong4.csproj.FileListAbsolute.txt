@@ -1,0 +1,10 @@
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\bin\Debug\Chuong4.exe.config
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\bin\Debug\Chuong4.exe
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\bin\Debug\Chuong4.pdb
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.csprojAssemblyReference.cache
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.Form1.resources
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.Properties.Resources.resources
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.csproj.GenerateResource.cache
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.exe
+F:\Programming\.Net_Csharp\ThucHanh\Chuong4\Chuong4\obj\Debug\Chuong4.pdb

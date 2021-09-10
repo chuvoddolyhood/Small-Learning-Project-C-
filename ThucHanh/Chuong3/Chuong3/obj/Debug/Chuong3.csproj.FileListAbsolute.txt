@@ -1,0 +1,7 @@
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\bin\Debug\Chuong3.exe.config
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\bin\Debug\Chuong3.exe
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\bin\Debug\Chuong3.pdb
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\obj\Debug\Chuong3.csprojAssemblyReference.cache
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\obj\Debug\Chuong3.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\obj\Debug\Chuong3.exe
+F:\Programming\.Net_Csharp\ThucHanh\Chuong3\Chuong3\obj\Debug\Chuong3.pdb

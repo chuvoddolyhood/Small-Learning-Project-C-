@@ -1,0 +1,7 @@
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\bin\Debug\BaiTapSo2.exe.config
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\bin\Debug\BaiTapSo2.exe
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\bin\Debug\BaiTapSo2.pdb
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\obj\Debug\BaiTapSo2.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\obj\Debug\BaiTapSo2.exe
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\obj\Debug\BaiTapSo2.pdb
+F:\Programming\.Net_Csharp\Learn_Csharp\BaiTapThanTrieu\BaiTapSo2\obj\Debug\BaiTapSo2.csprojAssemblyReference.cache

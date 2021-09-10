@@ -1,0 +1,11 @@
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.csprojAssemblyReference.cache
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.frmDVDCatalog.resources
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.cache
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
+F:\Programming\.Net_Csharp\ThucHanh\Buoi3\Buoi3\obj\Debug\Buoi3.Results.resources
